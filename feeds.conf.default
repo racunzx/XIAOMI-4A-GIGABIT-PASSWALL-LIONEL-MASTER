@@ -1,9 +1,9 @@
-src-git packages https://github.com/Lienol/openwrt-packages.git^53020490c
-src-git luci https://github.com/Lienol/openwrt-luci.git^8f1466c
-src-git routing https://git.openwrt.org/feed/routing.git^65585a7
-src-git telephony https://git.openwrt.org/feed/telephony.git^5ee7928
-src-git lienol https://github.com/Lienol/openwrt-package.git^7150642
-src-git other https://github.com/Lienol/openwrt-package.git^6406edf
+src-git packages https://github.com/Lienol/openwrt-packages.git
+src-git luci https://github.com/Lienol/openwrt-luci.git
+src-git routing https://git.openwrt.org/feed/routing.git
+src-git telephony https://git.openwrt.org/feed/telephony.git
+src-git lienol https://github.com/Lienol/openwrt-package.git
+
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
 src-git ssr https://github.com/fw876/helloworld.git
 src-git clash https://github.com/vernesong/OpenClash.git
