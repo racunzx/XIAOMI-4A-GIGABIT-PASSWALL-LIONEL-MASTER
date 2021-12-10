@@ -5,3 +5,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git^5e86575
 src-git lienol https://github.com/Lienol/openwrt-package.git^7150642
 src-git other https://github.com/Lienol/openwrt-package.git^6406edf
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
+src-git ssr https://github.com/fw876/helloworld.git
